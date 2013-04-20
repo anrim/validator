@@ -1,0 +1,16 @@
+{
+  "name": "validator",
+  "repo": "https://github.com/mvbjs/validator",
+  "description": "Validator",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "lib/validator.js",
+    "lib/format.js"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "anrim-validator",
+  "version": "0.0.1",
+  "description": "Validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "https://github.com/anrim/validator",
+  "author": "anrim",
+  "license": "MIT"
+}
